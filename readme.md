@@ -20,7 +20,7 @@
 ### Glad to see you here! 🤩 &nbsp;
 
 I am a passionate self-taught programmer from India.
-- 🔭 I’m currently working on myself (https://github.com/shoebkhan30/ToMail)
+- 🔭 I’m currently working on myself.
 - 🌱 I’m currently learning Python and everything 🤣
 - 👯 I’m looking to collaborate on [Awesome Cheatsheet](https://github.com/shoebkhan30/awesome-cheatsheet)
 - 💬 Ask me about anything [here](https://github.com/shoebkhan30/shoebkhan30/issues)
