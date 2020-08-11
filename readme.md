@@ -19,6 +19,8 @@
 
 ### Glad to see you here! 🤩 &nbsp;
 
+---
+
 I am a passionate self-taught programmer from India.
 - 🔭 I’m currently working on myself.
 - 🌱 I’m currently learning Python and everything 🤣
@@ -27,6 +29,8 @@ I am a passionate self-taught programmer from India.
 - 📫 How to reach me: shoeb199630@gmail.com <br>
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play football and draw / portraits
+
+---
 
 **Languages and Tools:** &nbsp;
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -38,6 +42,8 @@ I am a passionate self-taught programmer from India.
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
+---
+
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoebkhan30&theme=radical&hide_langs_below=1&layout=compact" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shoebkhan30&show_icons=true&theme=radical&line_height=21" alt="shoeb's github stats"/>
@@ -46,6 +52,8 @@ I am a passionate self-taught programmer from India.
 *PS: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github*
 
 <br />
+
+---
 
 
 ⚡ Fun fact <br>
